@@ -1,1 +1,1 @@
-print('gato')
+print('gatinho')
